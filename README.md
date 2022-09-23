@@ -1,1 +1,4 @@
-A flutter application built with dart, enabled with authentication as well as standard crud operations for uploading, cart functionality, state management
+A flutter application built with dart, enabled with authentication as well as standard CRUD operations cart functionality, state management, firebase as backend (will need to change credentials after cloning).
+
+A complete documentation is provided below:
+https://drive.google.com/file/d/1J2it1bnQmSlq6djzj0BFKMWjvlMQzjkO/view?usp=sharing
